@@ -1,4 +1,4 @@
 this is
-a super cool demo
+a super awesome rad demo
 of git!
 this is a change!!!!
